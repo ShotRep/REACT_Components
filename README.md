@@ -12,9 +12,10 @@ JSX is optional and not required to use React. Try the Babel REPL to see the raw
 
 
 [REACT - URL](https://reactjs.org/)
-[REACT DOCS - URL](https://reactjs.org/docs/getting-started.html)
-[JSX DOCS - URL](https://reactjs.org/docs/introducing-jsx.html)
 
+[REACT DOCS - URL](https://reactjs.org/docs/getting-started.html)
+
+[JSX DOCS - URL](https://reactjs.org/docs/introducing-jsx.html)
 
 <!-- LICENSE -->
 ## License
